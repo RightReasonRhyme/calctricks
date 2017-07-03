@@ -1,3 +1,7 @@
+A bunch of trick Calculus questions that have a non-obvious answer or counterexample.
+
+LICENSE:
+
 Attribution 4.0 International
 
 =======================================================================
